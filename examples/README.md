@@ -1,7 +1,7 @@
 # Examples
 
 |__Examples__|__Pages__|__Description__|
-|:-|:-|
+|:-|:-|:-|
 | [alrt](alrt) [![g][g]][g🚨] [![d][d]][d🚨] | 🚨 Error pages in tsei.jp |
 | [home](home) [![g][g]][g👀] [![d][d]][d👀] | 👀 Home pages in tsei.jp |
 | [mech](mech) [![g][g]][g⚙] [![d][d]][d⚙] | ⚙ CAD like Model Viewer |
