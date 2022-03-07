@@ -1,49 +1,65 @@
 [submodule "packages/core"]
-	path = packages/core
-	url = https://github.com/tseijp/core
-	branch = main
+  path = packages/core
+  url = https://github.com/tseijp/core
+  branch = main
   ignore = all
 [submodule "packages/mdmd"]
-	path = packages/mdmd
-	url = https://github.com/tseijp/mdmd
-	branch = main
+  path = packages/mdmd
+  url = https://github.com/tseijp/mdmd
+  branch = main
   ignore = all
 [submodule "packages/neui"]
-	path = packages/neui
-	url = https://github.com/tseijp/neui
-	branch = main
+  path = packages/neui
+  url = https://github.com/tseijp/neui
+  branch = main
   ignore = all
 [submodule "packages/parsed-path"]
-	path = packages/parsed-path
-	url = https://github.com/tseijp/parsed-path
-	branch = main
+  path = packages/parsed-path
+  url = https://github.com/tseijp/parsed-path
+  branch = main
   ignore = all
 [submodule "packages/react-mixing"]
-	path = packages/react-mixing
-	url = https://github.com/tseijp/react-mixing
-	branch = main
+  path = packages/react-mixing
+  url = https://github.com/tseijp/react-mixing
+  branch = main
   ignore = all
 [submodule "packages/react-mol"]
-	path = packages/react-mol
-	url = https://github.com/tseijp/react-mol
-	branch = main
+  path = packages/react-mol
+  url = https://github.com/tseijp/react-mol
+  branch = main
   ignore = all
 [submodule "packages/use-book"]
-	path = packages/use-book
-	url = https://github.com/tseijp/use-book
-	branch = main
+  path = packages/use-book
+  url = https://github.com/tseijp/use-book
+  branch = main
   ignore = all
 [submodule "packages/use-grid"]
-	path = packages/use-grid
-	url = https://github.com/tseijp/use-grid
-	branch = main
+  path = packages/use-grid
+  url = https://github.com/tseijp/use-grid
+  branch = main
   ignore = all
 [submodule "packages/use-midi"]
-	path = packages/use-midi
-	url = https://github.com/tseijp/use-midi
-	branch = main
+  path = packages/use-midi
+  url = https://github.com/tseijp/use-midi
+  branch = main
+  ignore = all
+[submodule "examples/alrt"]
+  path = examples/alrt
+  url = https://github.com/tseijp/alrt
+  branch = main
   ignore = all
 [submodule "examples/home"]
-	path = examples/home
-	url = https://github.com/tseijp/home
-	branch = main
+  path = examples/home
+  url = https://github.com/tseijp/home
+  branch = main
+  ignore = all
+[submodule "examples/mech"]
+  path = examples/mech
+  url = https://github.com/tseijp/mech
+  branch = main
+  ignore = all
+[submodule "examples/rben"]
+  path = examples/rben
+  url = https://github.com/tseijp/rben
+  branch = main
+  ignore = all

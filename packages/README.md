@@ -1,6 +1,6 @@
 # Packages
 
-|__Packages__|__Version__|__Description__|
+|__Packages__|__Pages__|__Description__|
 |:-|:-|:-|
 | [@tsei/core](core) | [![n][n]][n🌌] [![g][g]][g🌌] [![d][d]][d🌌] [![v][v🌌]][t🌌] | 🌌Fantastic UI in tsei.jp.|
 | [@tsei/mdmd](mdmd) | [![n][n]][n♍] [![g][g]][g♍] [![d][d]][d♍] [![v][v♍]][t♍] | ♍React Ⅿarkⅾown with Ⅿaterial Ⅾesign.|

@@ -1,15 +1,21 @@
 # Examples
 
-|__Examples__|__Description__|
+|__Examples__|__Pages__|__Description__|
 |:-|:-|
-|[alrt](alrt) [![g][g]][g🚨] [![d][d]][d🚨] | 🚨Error page in tsei.jp|
-|[home](home) [![g][g]][g👀] [![d][d]][d👀] | 👀Home page in tsei.jp|
+| [alrt](alrt) [![g][g]][g🚨] [![d][d]][d🚨] | 🚨 Error pages in tsei.jp |
+| [home](home) [![g][g]][g👀] [![d][d]][d👀] | 👀 Home pages in tsei.jp |
+| [mech](mech) [![g][g]][g⚙] [![d][d]][d⚙] | ⚙ CAD like Model Viewer |
+| [rben](rben) [![g][g]][g👺] [![d][d]][d👺] | 👺 Ruby Benchmark on your browser |
 
 [g]: https://api.iconify.design/cib:github.svg
 [d]: https://api.iconify.design/akar-icons:link-on.svg
 
 [g🚨]: https://github.com/tseijp/alrt
 [g👀]: https://github.com/tseijp/home
+[g⚙]: https://github.com/tseijp/mech
+[g👺]: https://github.com/tseijp/rben
 
-[d🚨]: https://404.tsei.jp/
+[d🚨]: https://404.tsei.jp
 [d👀]: https://tsei.jp
+[d⚙]: https://tseijp.github.io/mech
+[d👺]: https://tseijp.github.io/rben
