@@ -7,9 +7,9 @@
     "maintainers": ["tsei (https://github.com/tseijp)"],
     "devDependencies": { "lerna": "^4.0.0" },
     "scripts": {
-        "start": "cd examples && cd home && yarn start",
-        "build": "cd examples && cd home && yarn build",
-        "serve": "cd examples && cd home && yarn serve",
+        "start": "cd examples && cd home && yarn start:root",
+        "build": "cd examples && cd home && yarn build:root",
+        "serve": "cd examples && cd home && yarn serve:root",
         "deploy": "yarn @tsei/deploy",
         "submodule": "yarn @tsei/submodule"
     }
