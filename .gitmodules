@@ -63,3 +63,7 @@
   url = https://github.com/tseijp/rben
   branch = main
   ignore = all
+[submodule "articles/note"]
+	path = articles/note
+	url = https://github.com/tseijp/note
+	branch = main
