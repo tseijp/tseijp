@@ -17,6 +17,14 @@ updates:
     schedule:
       interval: "daily"
   - package-ecosystem: "gitsubmodule"
-    directory: "/"
+    directory: "/articles/"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "gitsubmodule"
+    directory: "/examples/"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "gitsubmodule"
+    directory: "/packages/"
     schedule:
       interval: "daily"
