@@ -3,6 +3,8 @@ tseijp.sock
 **/settings/.gitignore
 **/build/static
 **/build
+/.*
+
 bots
 
 # Created by https://www.toptal.com/developers/gitignore/api/bazel,c++,c,cmake,cuda,clojure,django,firebase,flask,git,java,jupyternotebooks,latex,matlab,nextjs,node,nwjs,opencv,python,react,redis,ruby,rust,sass,ssh,storybookjs,terraform,unity,visualstudiocode,vuejs,yarn

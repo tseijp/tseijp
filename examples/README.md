@@ -2,10 +2,10 @@
 
 |__Examples__|__Pages__|__Description__|
 |:-|:-|:-|
-| [alrt](alrt) | [![g][g]][g🚨] [![d][d]][d🚨] | 🚨 Error pages in tsei.jp |
-| [home](home) | [![g][g]][g👀] [![d][d]][d👀] | 👀 Home pages in tsei.jp |
-| [mech](mech) | [![g][g]][g⚙] [![d][d]][d⚙] | ⚙ CAD like Model Viewer |
-| [rben](rben) | [![g][g]][g👺] [![d][d]][d👺] | 👺 Ruby Benchmark on your browser |
+| [alrt](alrt) | [![🚨][g]][g🚨] [![🚨][d]][d🚨] | 🚨 Error pages in tsei.jp |
+| [home](home) | [![👀][g]][g👀] [![👀][d]][d👀] | 👀 Home pages in tsei.jp |
+| [mech](mech) | [![⚙][g]][g⚙] [![⚙][d]][d⚙] | ⚙ CAD like Model Viewer |
+| [rben](rben) | [![👺][g]][g👺] [![👺][d]][d👺] | 👺 Ruby Benchmark on your browser |
 
 [g]: https://api.iconify.design/cib:github.svg
 [d]: https://api.iconify.design/akar-icons:link-on.svg

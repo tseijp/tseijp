@@ -2,15 +2,15 @@
 
 |__Packages__|__Pages__|__Description__|
 |:-|:-|:-|
-| [@tsei/core](core)          | [![n][n]][n🌌] [![g][g]][g🌌] [![d][d]][d🌌] [![v][v🌌]][t🌌] | 🌌Fantastic UI in tsei.jp.|
-| [@tsei/mdmd](mdmd)          | [![n][n]][n♍] [![g][g]][g♍] [![d][d]][d♍] [![v][v♍]][t♍] | ♍React Ⅿarkⅾown with Ⅿaterial Ⅾesign.|
-| [@tsei/neui](neui)          | [![n][n]][n♑] [![g][g]][g♑] [![d][d]][d♑] [![v][v♑]][t♑] | ♑Neumophismic UI in tsei.jp.|
-| [parsed-path](parsed-path)  | [![n][n]][n👋] [![g][g]][g👋] [![d][d]][d👋] [![v][v👋]][t👋] | 👋Use the best bits of ES6 to parse your path without stress.|
-| [react-mixing](react-mixin) | [![n][n]][n🍭] [![g][g]][g🍭] [![d][d]][d🍭] [![v][v🍭]][t🍭] | 🍭Cross-platform mixing engine for React.|
-| [react-mol](react-mol)      | [![n][n]][n🍡] [![g][g]][g🍡] [![d][d]][d🍡] [![v][v🍡]][t🍡] | 🍡A molecular chemistry based simulation library.|
-| [use-book](use-book)        | [![n][n]][n📚] [![g][g]][g📚] [![d][d]][d📚] [![v][v📚]][t📚] | 📚a hook that lets you get product info from url or book cover in React.|
-| [use-grid](use-grid)        | [![n][n]][n🤏] [![g][g]][g🤏] [![d][d]][d🤏] [![v][v🤏]][t🤏] | 🤏use-grid is a hook to build responsive layouts of all shapes and sizes.|
-| [use-midi](use-midi)        | [![n][n]][n🖖] [![g][g]][g🖖] [![d][d]][d🖖] [![v][v🖖]][t🖖] | 🖖Cross-platform midi engine for React|
+| [@tsei/core](core)          | [![🌌][n]][n🌌] [![🌌][g]][g🌌] [![🌌][d]][d🌌] [![🌌][v🌌]][t🌌] | 🌌Fantastic UI in tsei.jp.|
+| [@tsei/mdmd](mdmd)          | [![♍][n]][n♍] [![♍][g]][g♍] [![♍][d]][d♍] [![♍][v♍]][t♍] | ♍React Ⅿarkⅾown with Ⅿaterial Ⅾesign.|
+| [@tsei/neui](neui)          | [![♑][n]][n♑] [![♑][g]][g♑] [![♑][d]][d♑] [![♑][v♑]][t♑] | ♑Neumophismic UI in tsei.jp.|
+| [parsed-path](parsed-path)  | [![👋][n]][n👋] [![👋][g]][g👋] [![👋][d]][d👋] [![👋][v👋]][t👋] | 👋Use the best bits of ES6 to parse your path without stress.|
+| [react-mixing](react-mixin) | [![🍭][n]][n🍭] [![🍭][g]][g🍭] [![🍭][d]][d🍭] [![🍭][v🍭]][t🍭] | 🍭Cross-platform mixing engine for React.|
+| [react-mol](react-mol)      | [![🍡][n]][n🍡] [![🍡][g]][g🍡] [![🍡][d]][d🍡] [![🍡][v🍡]][t🍡] | 🍡A molecular chemistry based simulation library.|
+| [use-book](use-book)        | [![📚][n]][n📚] [![📚][g]][g📚] [![📚][d]][d📚] [![📚][v📚]][t📚] | 📚a hook that lets you get product info from url or book cover in React.|
+| [use-grid](use-grid)        | [![🤏][n]][n🤏] [![🤏][g]][g🤏] [![🤏][d]][d🤏] [![🤏][v🤏]][t🤏] | 🤏use-grid is a hook to build responsive layouts of all shapes and sizes.|
+| [use-midi](use-midi)        | [![🖖][n]][n🖖] [![🖖][g]][g🖖] [![🖖][d]][d🖖] [![🖖][v🖖]][t🖖] | 🖖Cross-platform midi engine for React|
 
 [n]: https://api.iconify.design/cib:npm.svg
 [g]: https://api.iconify.design/cib:github.svg
