@@ -10,13 +10,19 @@ updates:
     schedule:
       interval: monthly
     open-pull-requests-limit: 99
-    commit-message:
-      prefix: ":fire:chore: Update package."
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
       interval: "daily"
   - package-ecosystem: "gitsubmodule"
-    directory: "/"
+    directory: "/articles/"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "gitsubmodule"
+    directory: "/examples/"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "gitsubmodule"
+    directory: "/packages/"
     schedule:
       interval: "daily"
