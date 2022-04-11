@@ -68,3 +68,8 @@
   url = https://github.com/tseijp/note
   branch = main
   ignore = all
+[submodule "examples/sudo"]
+  path = examples/sudo
+  url = https://github.com/tseijp/sudo
+  branch = main
+  ignore = all
