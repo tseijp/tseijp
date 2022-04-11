@@ -1,6 +1,7 @@
 <p align="center">
-<!--img alt="🤏" width="100" src="https://i.imgur.com/"/>
-  <img alt="👋" width="100" src="https://i.imgur.com/"/-->
+  <a href="https://tseijp.github.io/mech"><img width="100" alt=" " src="https://i.imgur.com/zZOZQKZ.gif" /></a>
+  <a href="https://tseijp.github.io/sudo"><img width="100" alt=" " src="https://i.imgur.com/H1ODA6L.gif" /></a>
+  <a href="https://404.tsei.jp/"><img width="100" alt=" " src="https://i.imgur.com/raM25u6.gif" /></a>
   <a href="https://bit.ly/3HrRGm5"><img width="100" alt=" " src="https://i.imgur.com/VtQdK8z.gif" /></a>
   <a href="https://bit.ly/3L6Y2tn"><img width="100" alt=" " src="https://i.imgur.com/lQQwQqx.gif" /></a>
   <a href="https://bit.ly/3sg1zgn"><img width="100" alt=" " src="https://i.imgur.com/Qk3OD3R.gif" /></a>
