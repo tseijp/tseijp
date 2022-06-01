@@ -5,7 +5,7 @@
     "private": true,
     "homepage": "tsei.jp",
     "maintainers": ["tsei (https://github.com/tseijp)"],
-    "devDependencies": { "lerna": "^4.0.0" },
+    "devDependencies": { "lerna": "^5.0.0" },
     "scripts": {
         "build": "cd examples/home && yarn && yarn build:root",
         "serve": "cd examples/home && yarn && yarn serve:root",
