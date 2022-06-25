@@ -7,6 +7,10 @@
     "maintainers": ["tsei (https://github.com/tseijp)"],
     "devDependencies": { "lerna": "^5.0.0" },
     "scripts": {
+        "update": "git submodule update --init --remote --recursive",
+        "pull": "git submodule foreach git pull origin main",
+        "status": "git submodule foreach git status",
+        "init": "yarn update && yarn pull",
         "build": "cd examples/home && yarn && yarn build:root",
         "serve": "cd examples/home && yarn && yarn serve:root",
         "start": "cd examples/home && yarn && yarn start:root",
