@@ -1,26 +1,11 @@
-[submodule "packages/core"]
-  path = packages/core
-  url = https://github.com/tseijp/core
-  branch = main
-  ignore = all
 [submodule "packages/mdmd"]
   path = packages/mdmd
   url = https://github.com/tseijp/mdmd
   branch = main
   ignore = all
-[submodule "packages/neui"]
-  path = packages/neui
-  url = https://github.com/tseijp/neui
-  branch = main
-  ignore = all
 [submodule "packages/parsed-path"]
   path = packages/parsed-path
   url = https://github.com/tseijp/parsed-path
-  branch = main
-  ignore = all
-[submodule "packages/react-mixing"]
-  path = packages/react-mixing
-  url = https://github.com/tseijp/react-mixing
   branch = main
   ignore = all
 [submodule "packages/react-mol"]
@@ -71,5 +56,45 @@
 [submodule "examples/sudo"]
   path = examples/sudo
   url = https://github.com/tseijp/sudo
+  branch = main
+  ignore = all
+[submodule "examples/qala"]
+	path = examples/qala
+	url = https://github.com/tseijp/qala
+  branch = main
+  ignore = all
+[submodule "examples/lapa"]
+	path = examples/lapa
+	url = https://github.com/tseijp/lapa
+  branch = main
+  ignore = all
+[submodule "packages/glre"]
+	path = packages/glre
+	url = https://github.com/tseijp/glre
+  branch = main
+  ignore = all
+[submodule "packages/glrb"]
+	path = packages/glrb
+	url = https://github.com/tseijp/glrb
+  branch = main
+  ignore = all
+[submodule "examples/plre"]
+	path = examples/plre
+	url = https://github.com/tseijp/plre
+  branch = main
+  ignore = all
+[submodule "packages/reev"]
+	path = packages/reev
+	url = https://github.com/tseijp/reev
+  branch = main
+  ignore = all
+[submodule "packages/refr"]
+	path = packages/refr
+	url = https://github.com/tseijp/refr
+  branch = main
+  ignore = all
+[submodule "packages/reii"]
+	path = packages/reii
+	url = https://github.com/tseijp/reii
   branch = main
   ignore = all
