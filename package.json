@@ -9,7 +9,10 @@
     "scripts": {
         "update": "git submodule update --init --remote --recursive",
         "pull": "git submodule foreach git pull origin main",
+        "push": "git submodule foreach git push origin main",
         "status": "git submodule foreach git status",
+        "branch": "git submodule foreach git branch",
+        "main": "git submodule foreach git checkout main",
         "init": "yarn update && yarn pull",
         "build": "cd examples/home && yarn && yarn build:root",
         "serve": "cd examples/home && yarn && yarn serve:root",
