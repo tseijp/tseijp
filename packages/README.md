@@ -16,6 +16,9 @@
   <a href="https://tseijp.github.io/use-book">
     <img alt="📚" height="128px" src="https://i.imgur.com/DzqbYHz.gif"/>
   </a>
+  <a href="https://tseijp.github.io/use-midi">
+    <img alt="🖖" height="128px" src="https://i.imgur.com/VtQdK8z.gif" />
+  </a>
 </p>
 
 |__Packages__|__Pages__|__Description__|

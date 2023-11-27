@@ -19,6 +19,9 @@
   <a href="https://qala.tsei.jp">
     <img alt="🎨" height="128px" src="https://qala.tsei.jp/readme.gif"/>
   </a>
+  <a href="https://tseijp.github.io/rben">
+    <img alt="👺" height="128px" src="https://i.imgur.com/lQQwQqx.gif" />
+  </a>
   <a href="https://tseijp.github.io/sudo/">
     <img alt="⚙" height="128px" src="https://i.imgur.com/H1ODA6L.gif" />
   </a>
