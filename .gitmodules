@@ -1,3 +1,14 @@
+
+[submodule "articles/note"]
+  path = articles/note
+  url = https://github.com/tseijp/note
+  branch = main
+  ignore = all
+[submodule "articles/zenn"]
+	path = articles/zenn
+	url = https://github.com/tseijp/zenn
+	branch = main
+  ignore = all
 [submodule "packages/mdmd"]
   path = packages/mdmd
   url = https://github.com/tseijp/mdmd
@@ -46,11 +57,6 @@
 [submodule "examples/rben"]
   path = examples/rben
   url = https://github.com/tseijp/rben
-  branch = main
-  ignore = all
-[submodule "articles/note"]
-  path = articles/note
-  url = https://github.com/tseijp/note
   branch = main
   ignore = all
 [submodule "examples/sudo"]
