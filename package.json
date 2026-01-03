@@ -8,7 +8,7 @@
         "tsei (https://github.com/tseijp)"
     ],
     "devDependencies": {
-        "lerna": "^8.0.0"
+        "lerna": "^9.0.3"
     },
     "scripts": {
         "initialize": "yarn update && yarn pull",
