@@ -27,46 +27,19 @@
   </a>
 </p>
 
-## Current Projects
-
-| **Examples** | **Pages**                   | **Description**          |
-| :----------- | :-------------------------- | :----------------------- |
-| [home](home) | [![][g]][g👀] [![][d]][d👀] | 👀 Home pages in tsei.jp |
-
-## 2025
-
-| **Examples**      | **Pages**     | **Description**                   |
-| :---------------- | :------------ | :-------------------------------- |
-| [ctrl](2025/ctrl) | [![][g]][g🎮] | 🎮 Controller interface library   |
-| [test](2025/test) | [![][g]][g🧪] | 🧪 Testing utilities and examples |
-
-## 2024
-
-| **Examples**            | **Pages**     | **Description**                        |
-| :---------------------- | :------------ | :------------------------------------- |
-| [munsell](2024/munsell) | [![][g]][g🎨] | 🎨 Munsell color system implementation |
-
-## 2023 (Archive)
-
-| **Examples**      | **Pages**                   | **Description**                |
-| :---------------- | :-------------------------- | :----------------------------- |
-| [lapa](2023/lapa) | [![][g]][g🚥] [![][d]][d🚥] | 🚥 LAPA \| Launch Party App    |
-| [plre](2023/plre) | [![][g]][g📈] [![][d]][d📈] | 📈 plre \| Plot Realtime       |
-| [qala](2023/qala) | [![][g]][g🎨] [![][d]][d🎨] | 🎨 Qala \| Board Game App      |
-
-## 2022 (Archive)
-
-| **Examples**      | **Pages**                   | **Description**                       |
-| :---------------- | :-------------------------- | :------------------------------------ |
-| [alrt](2022/alrt) | [![][g]][g🚨] [![][d]][d🚨] | 🚨 Error pages in tsei.jp             |
-| [rben](2022/rben) | [![][g]][g👺] [![][d]][d👺] | 👺 Ruby Benchmark on your browser     |
-| [sudo](2022/sudo) | [![][g]][g🔡] [![][d]][d🔡] | 🔡SUDOKU APP Created with CodeSandbox |
-
-## 2021 (Archive)
-
-| **Examples**      | **Pages**                 | **Description**          |
-| :---------------- | :------------------------ | :----------------------- |
-| [mech](2021/mech) | [![][g]][g⚙] [![][d]][d⚙] | ⚙ CAD like Model Viewer |
+| **Examples**            | **Pages**                   | **Description**                        |
+| :---------------------- | :-------------------------- | :------------------------------------- |
+| [home](home)            | [![][g]][g👀] [![][d]][d👀] | 👀 Home pages in tsei.jp               |
+| [ctrl](2025/ctrl)       | [![][g]][g🎮]               | 🎮 Controller interface library        |
+| [test](2025/test)       | [![][g]][g🧪]               | 🧪 Testing utilities and examples      |
+| [munsell](2024/munsell) | [![][g]][g🎨]               | 🎨 Munsell color system implementation |
+| [lapa](2023/lapa)       | [![][g]][g🚥] [![][d]][d🚥] | 🚥 LAPA \| Launch Party App            |
+| [plre](2023/plre)       | [![][g]][g📈] [![][d]][d📈] | 📈 plre \| Plot Realtime               |
+| [qala](2023/qala)       | [![][g]][g🎨] [![][d]][d🎨] | 🎨 Qala \| Board Game App              |
+| [alrt](2022/alrt)       | [![][g]][g🚨] [![][d]][d🚨] | 🚨 Error pages in tsei.jp              |
+| [rben](2022/rben)       | [![][g]][g👺] [![][d]][d👺] | 👺 Ruby Benchmark on your browser      |
+| [sudo](2022/sudo)       | [![][g]][g🔡] [![][d]][d🔡] | 🔡SUDOKU APP Created with CodeSandbox  |
+| [mech](2021/mech)       | [![][g]][g⚙] [![][d]][d⚙]   | ⚙ CAD like Model Viewer                |
 
 [g]: https://api.iconify.design/cib:github.svg
 [d]: https://api.iconify.design/ci:external-link.svg
