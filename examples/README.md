@@ -48,15 +48,25 @@
 
 ## 2023 (Archive)
 
+| **Examples**      | **Pages**                   | **Description**                |
+| :---------------- | :-------------------------- | :----------------------------- |
+| [lapa](2023/lapa) | [![][g]][g🚥] [![][d]][d🚥] | 🚥 LAPA \| Launch Party App    |
+| [plre](2023/plre) | [![][g]][g📈] [![][d]][d📈] | 📈 plre \| Plot Realtime       |
+| [qala](2023/qala) | [![][g]][g🎨] [![][d]][d🎨] | 🎨 Qala \| Board Game App      |
+
+## 2022 (Archive)
+
 | **Examples**      | **Pages**                   | **Description**                       |
 | :---------------- | :-------------------------- | :------------------------------------ |
-| [alrt](2023/alrt) | [![][g]][g🚨] [![][d]][d🚨] | 🚨 Error pages in tsei.jp             |
-| [lapa](2023/lapa) | [![][g]][g🚥] [![][d]][d🚥] | 🚥 LAPA \| Launch Party App           |
-| [mech](2023/mech) | [![][g]][g⚙] [![][d]][d⚙]   | ⚙ CAD like Model Viewer               |
-| [plre](2023/plre) | [![][g]][g📈] [![][d]][d📈] | 📈 plre \| Plot Realtime              |
-| [qala](2023/qala) | [![][g]][g🎨] [![][d]][d🎨] | 🎨 Qala \| Board Game App             |
-| [rben](2023/rben) | [![][g]][g👺] [![][d]][d👺] | 👺 Ruby Benchmark on your browser     |
-| [sudo](2023/sudo) | [![][g]][g🔡] [![][d]][d🔡] | 🔡SUDOKU APP Created with CodeSandbox |
+| [alrt](2022/alrt) | [![][g]][g🚨] [![][d]][d🚨] | 🚨 Error pages in tsei.jp             |
+| [rben](2022/rben) | [![][g]][g👺] [![][d]][d👺] | 👺 Ruby Benchmark on your browser     |
+| [sudo](2022/sudo) | [![][g]][g🔡] [![][d]][d🔡] | 🔡SUDOKU APP Created with CodeSandbox |
+
+## 2021 (Archive)
+
+| **Examples**      | **Pages**                 | **Description**          |
+| :---------------- | :------------------------ | :----------------------- |
+| [mech](2021/mech) | [![][g]][g⚙] [![][d]][d⚙] | ⚙ CAD like Model Viewer |
 
 [g]: https://api.iconify.design/cib:github.svg
 [d]: https://api.iconify.design/ci:external-link.svg

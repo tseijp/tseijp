@@ -40,7 +40,7 @@
   branch = main
   ignore = all
 [submodule "examples/alrt"]
-	path = examples/2023/alrt
+	path = examples/2022/alrt
   url = https://github.com/tseijp/alrt
   branch = main
   ignore = all
@@ -50,17 +50,17 @@
   branch = main
   ignore = all
 [submodule "examples/mech"]
-	path = examples/2023/mech
+	path = examples/2021/mech
   url = https://github.com/tseijp/mech
   branch = main
   ignore = all
 [submodule "examples/rben"]
-	path = examples/2023/rben
+	path = examples/2022/rben
   url = https://github.com/tseijp/rben
   branch = main
   ignore = all
 [submodule "examples/sudo"]
-	path = examples/2023/sudo
+	path = examples/2022/sudo
   url = https://github.com/tseijp/sudo
   branch = main
   ignore = all
