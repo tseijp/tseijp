@@ -10,7 +10,7 @@
 	branch = main
   ignore = all
 [submodule "packages/mdmd"]
-  path = packages/mdmd
+	path = packages/archive/mdmd
   url = https://github.com/tseijp/mdmd
   branch = main
   ignore = all
@@ -20,27 +20,27 @@
   branch = main
   ignore = all
 [submodule "packages/react-mol"]
-  path = packages/react-mol
+	path = packages/archive/react-mol
   url = https://github.com/tseijp/react-mol
   branch = main
   ignore = all
 [submodule "packages/use-book"]
-  path = packages/use-book
+	path = packages/archive/use-book
   url = https://github.com/tseijp/use-book
   branch = main
   ignore = all
 [submodule "packages/use-grid"]
-  path = packages/use-grid
+	path = packages/archive/use-grid
   url = https://github.com/tseijp/use-grid
   branch = main
   ignore = all
 [submodule "packages/use-midi"]
-  path = packages/use-midi
+	path = packages/archive/use-midi
   url = https://github.com/tseijp/use-midi
   branch = main
   ignore = all
 [submodule "examples/alrt"]
-  path = examples/alrt
+	path = examples/2023/alrt
   url = https://github.com/tseijp/alrt
   branch = main
   ignore = all
@@ -50,27 +50,27 @@
   branch = main
   ignore = all
 [submodule "examples/mech"]
-  path = examples/mech
+	path = examples/2023/mech
   url = https://github.com/tseijp/mech
   branch = main
   ignore = all
 [submodule "examples/rben"]
-  path = examples/rben
+	path = examples/2023/rben
   url = https://github.com/tseijp/rben
   branch = main
   ignore = all
 [submodule "examples/sudo"]
-  path = examples/sudo
+	path = examples/2023/sudo
   url = https://github.com/tseijp/sudo
   branch = main
   ignore = all
 [submodule "examples/qala"]
-	path = examples/qala
+	path = examples/2023/qala
 	url = https://github.com/tseijp/qala
   branch = main
   ignore = all
 [submodule "examples/lapa"]
-	path = examples/lapa
+	path = examples/2023/lapa
 	url = https://github.com/tseijp/lapa
   branch = main
   ignore = all
@@ -85,7 +85,7 @@
   branch = main
   ignore = all
 [submodule "examples/plre"]
-	path = examples/plre
+	path = examples/2023/plre
 	url = https://github.com/tseijp/plre
   branch = main
   ignore = all
@@ -99,8 +99,16 @@
 	url = https://github.com/tseijp/refr
   branch = main
   ignore = all
-[submodule "packages/reii"]
-	path = packages/reii
-	url = https://github.com/tseijp/reii
-  branch = main
-  ignore = all
+[submodule "examples/2025/ctrl"]
+	path = examples/2025/ctrl
+	url = https://github.com/tseijp/ctrl
+	branch = main
+	ignore = all
+[submodule "examples/2025/test"]
+	path = examples/2025/test
+	url = https://github.com/tseijp/test
+	branch = main
+	ignore = all
+[submodule "examples/2024/munsell"]
+	path = examples/2024/munsell
+	url = https://github.com/tseijp/munsell
