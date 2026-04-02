@@ -112,3 +112,16 @@
 [submodule "examples/2024/munsell"]
 	path = examples/2024/munsell
 	url = https://github.com/tseijp/munsell
+	branch = main
+	ignore = all
+[submodule "packages/z-idx"]
+	path = packages/z-idx
+	url = https://github.com/tseijp/z-idx
+	branch = main
+	ignore = all
+[submodule "examples/2026/voxelizer"]
+	path = examples/2026/voxelizer
+	url = https://github.com/tseijp/voxelizer
+	branch = main
+[submodule "examples/voxelizer"]
+	ignore = all

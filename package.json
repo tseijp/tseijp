@@ -9,7 +9,7 @@
         ],
         "scripts": {
                 "initialize": "yarn update && yarn pull",
-                "submodules": "----------------------------------------------------",
+                "xxx": "---------------------------------------------------",
                 "update": "git submodule update --remote --recursive",
                 "init": "git submodule update --init --remote --recursive",
                 "wip": "git submodule foreach \"git add . && git commit -m 'chore: wip' || echo 'Commit failed in $name, continuing...'\"",
@@ -20,10 +20,17 @@
                 "clear": "git submodule foreach 'git branch | grep -v -E \"main\" | xargs git branch -D'",
                 "main": "npm run branch && git submodule foreach git checkout main",
                 "sync": "npm run pull && git add . && git commit -m \"chore: sync each module\" && git push",
-                "examples": "------------------------------------------------------",
-                "build": "cd examples/home && npm i && npm run build",
-                "serve": "cd examples/home && npm i && npm run serve",
-                "start": "cd examples/home && npm i && npm run start"
+                "ignore-all": "git config -f .gitmodules submodule.$npm_config_path/$npm_config_repo.ignore all",
+                "yyy": "---------------------------------------------------",
+                "e.g.: add-example": "npm run add-example --repo=dummy-repo --year=2026",
+                "e.g.: add-package": "npm run add-example --repo=dummy-repo",
+                "add-submodule": "git submodule add -b main https://github.com/tseijp/$npm_config_repo $npm_config_path/$npm_config_repo",
+                "add-example": "npm run add-submodule --repo=$npm_config_repo --path=examples/$npm_config_year && npm run ignore-all --repo=$npm_config_repo --path=examples && npm run init",
+                "add-package": "npm run add-submodule --repo=$npm_config_repo --path=packages && npm run ignore-all --repo=$npm_config_repo --path=packages && npm run init",
+                "zzz": "------------------------------------------------------",
+                "build": "cd examples/home && npm run build",
+                "serve": "cd examples/home && npm run serve",
+                "start": "cd examples/home && npm run start"
         },
         "workspaces": [
                 "examples/*",
